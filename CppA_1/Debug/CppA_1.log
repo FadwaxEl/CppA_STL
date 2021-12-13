@@ -1,0 +1,18 @@
+﻿  CppA_1.cpp
+C:\Users\admin\source\repos\CppA_1\CppA_1\Vector.h(38,2): warning C4812: style de déclaration obsolète : utilisez 'vect::Vecteur3d<T>::Vecteur3d' à la place
+C:\Users\admin\source\repos\CppA_1\CppA_1\Vector.h(38,2): warning C4812: style de déclaration obsolète : utilisez 'vect::Vecteur3d<int>::Vecteur3d' à la place
+C:\Users\admin\source\repos\CppA_1\CppA_1\Vector.h(39): message : pendant la compilation de la fonction membre classe modèle 'vect::Vecteur3d<int>::Vecteur3d(T,T,T)'
+          with
+          [
+              T=int
+          ]
+C:\Users\admin\source\repos\CppA_1\CppA_1\CppA_1.cpp(18): message : voir la référence à l'instanciation de la fonction modèle 'vect::Vecteur3d<int>::Vecteur3d(T,T,T)' en cours de compilation
+          with
+          [
+              T=int
+          ]
+C:\Users\admin\source\repos\CppA_1\CppA_1\CppA_1.cpp(18): message : voir la référence à l'instanciation classe modèle 'vect::Vecteur3d<int>' en cours de compilation
+  Matrix.cpp
+  Génération de code en cours...
+C:\Users\admin\source\repos\CppA_1\CppA_1\Vector.h(70): warning C4715: 'vect::Vecteur3d<int>::at' : les chemins de contrôle ne retournent pas tous une valeur
+  CppA_1.vcxproj -> C:\Users\admin\source\repos\CppA_1\Debug\CppA_1.exe
